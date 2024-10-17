@@ -1,1 +1,1 @@
-Error init
+Error init repo
